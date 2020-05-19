@@ -1,0 +1,56 @@
+{
+  "name": "demo04",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@ant-design/react-native": "^3.3.0",
+    "@react-native-community/async-storage": "^1.10.1",
+    "@react-native-community/masked-view": "^0.1.10",
+    "antd": "^4.2.0",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-import": "^1.13.0",
+    "react": "16.11.0",
+    "react-native": "0.62.2",
+    "react-native-elements": "^2.0.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-image-crop-picker": "0.25.0",
+    "react-native-image-zoom-viewer": "^3.0.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-ms": "^0.1.0",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.7.0",
+    "react-native-smart-tip": "^2.1.0",
+    "react-native-tab-navigator": "^0.3.4",
+    "react-native-uuid": "^1.4.9",
+    "react-native-uuid-generator": "^6.1.1",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.3.9",
+    "react-navigation-stack": "^2.4.0",
+    "react-navigation-tabs": "^2.8.13",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "uuid-v4": "^0.1.0",
+    "uuidv4": "^6.0.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react-test-renderer": "16.11.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
