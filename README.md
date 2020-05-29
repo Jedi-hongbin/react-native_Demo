@@ -1,1 +1,4 @@
 # react-native_Demo
+模仿游戏洛克王国用react-native写的一个简易的小游戏
+
+![8c3be36d7a0fa16f120bfbb702b49ec0.gif](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8xNTMzMjc3OC01NGMzYmM3YmE1ZmIzZjAyLmdpZg)
