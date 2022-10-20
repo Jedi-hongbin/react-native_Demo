@@ -24,7 +24,7 @@
     "react-native-image-zoom-viewer": "^3.0.0",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-ms": "^0.1.0",
-    "react-native-reanimated": "^1.8.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.7.0",
     "react-native-smart-tip": "^2.1.0",
